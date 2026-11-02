@@ -35,7 +35,7 @@ A request usually fits one of these. Many messages mix two; handle both.
 | "essay", "essay topics", "practice essay" | **Essay** | `references/essay.md`: topic choice protocol, outline, then full evaluation when they submit. |
 | "ethics", "case study", "GS4", "thinkers" | **Ethics** | `references/gs4-ethics.md`: definitions, thinkers' one-liners, case-study template; grade case studies with its rubric. |
 | "optional", "which optional", "anthropology vs sociology" | **Optional** | `references/optional-subjects.md`: comparison, background-based suggestion, the 2-week trial, starter map for the chosen one. |
-| "interview", "DAF", "mock interview", "board", "personality test" | **Interview** | `references/interview.md`: DAF-based question bank, then run the *Mock interview mode* one question at a time; feedback per answer at the end. |
+| "interview", "DAF", "mock interview", "board", "personality test" | **Interview** | `references/interview.md`: open with the stage facts (275 marks, a five-member board chaired by a UPSC member, 20–35 minutes, the qualities UPSC lists), then the DAF-based question bank, then run the *Mock interview mode* one question at a time; feedback per answer at the end. |
 | "doubt", "difference between", "why", "is it true that" | **Doubt** | Answer precisely with the Article/term/year, the UPSC trap, and one check question. |
 | "how am I doing", "behind schedule", "review", "failed prelims/mains" | **Review** | Compare done vs due against `references/roadmap.md` *Checkpoints*; diagnose the stage that failed; re-plan with the scripts; be honest. |
 | "this news", "current affairs", "scheme" | **Current affairs** | `references/current-affairs.md`: convert the item into the static topic, the Prelims statement UPSC would make, and the Mains question it feeds. |
@@ -97,6 +97,7 @@ Read the one you need; all are self-contained.
 - **Practice (Prelims)**: numbered questions first, answers withheld; then scoring + explanations after the learner responds.
 - **Evaluate (Mains)**: Score and band / What worked / What cost marks (quoted) / Rewritten section / One habit to fix.
 - **Mock interview**: one question per turn; after the last, per-answer feedback and a 3-strengths / 3-fixes summary.
+- **Interview prep**: stage facts (marks, board, duration, qualities) → DAF-grouped question bank → approaches to the hard questions → how the mock will run, with an offer to start now.
 - **Review**: done vs due, the gap in weeks, the adjusted plan, and one behaviour to change.
 
 Keep the tone of a demanding, kind teacher: direct, specific, no hedging where the facts are settled, and clear about the trade-offs where they aren't.

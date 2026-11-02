@@ -80,7 +80,7 @@ Each folder under `evals/` is a realistic prompt with assertions in the layout `
 claude plugin eval . --allow-tools Write,Edit,Bash
 ```
 
-In the first benchmark (3 Prelims prompts, with vs without the skill, double-graded), the skill passed 21/21 assertions against 20/21 for plain Claude, and answered about a third faster; the one baseline miss was an eligibility computation. The second iteration added three Mains/Interview prompts (answer evaluation, ethics case study, DAF-based interview prep); results are in the repository's benchmark notes.
+In the first benchmark (3 Prelims prompts, with vs without the skill, double-graded), the skill passed 21/21 assertions against 20/21 for plain Claude, and answered about a third faster; the one baseline miss was an eligibility computation. The second benchmark added three Mains/Interview prompts (answer evaluation, ethics case study, DAF-based interview prep): across all six prompts the skill passed 44/45 assertions against 34/39 for plain Claude. Plain Claude's misses were quoting expected interview score bands, a 90-day current-affairs window, and not offering to start a mock; the skill's one miss (omitting the 275 marks and board composition in interview prep) has since been fixed in the Interview mode instructions.
 
 ## Contributing
 
