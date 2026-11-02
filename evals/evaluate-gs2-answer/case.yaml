@@ -1,0 +1,4 @@
+schema_version: "1.1"
+name: evaluate-gs2-answer
+expected_outcome: |
+  An examiner-style evaluation: a score out of 10 with a band (a realistic 3-5 for this answer), what worked, what cost marks quoting the learner's own sentences (missing directive handling, no structure/headings, no committee/report such as 2nd ARC 12th report or Sevottam, no data/example, vague conclusion), a rewritten version of the weakest part in the right length, and one habit to fix. Facts about Citizen's Charters (UK 1991 under John Major; India 1997 conference of Chief Ministers; Sevottam; 2nd ARC 12th report "Citizen Centric Administration"; Right of Citizens for Time Bound Delivery of Goods and Services and Redressal of their Grievances Bill 2011 lapsed) stated correctly where used.

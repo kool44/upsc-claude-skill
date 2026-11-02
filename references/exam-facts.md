@@ -7,12 +7,14 @@ Verify year-specific numbers (dates, vacancies, cutoffs) against the official no
 | Stage | Papers | Marks | Counts toward |
 |---|---|---|---|
 | **Prelims** | GS Paper I (100 Qs, 200 marks, 2 h) + CSAT Paper II (80 Qs, 200 marks, 2 h, qualifying at 33% = 66.67) | — | Only qualification to Mains; marks not carried forward |
-| **Mains** | Essay; GS I–IV; Optional I & II (250 each = 1750) + two qualifying language papers (English + one Indian language, 300 each, 25% to qualify) | 1750 | Final merit |
-| **Interview** | Personality test | 275 | Final merit (total 2025) |
+| **Mains** | Essay (250); GS I, II, III, IV (250 each); Optional Paper I & II (250 each) = 1750, written over ~5 days; plus Paper A (one Indian language from the 8th Schedule) and Paper B (English), 300 each, qualifying at 25%, not counted in merit | 1750 | Final merit |
+| **Interview** | Personality Test before a UPSC board, typically 20–35 min | 275 | Final merit (total 2025) |
 
 - Prelims negative marking: **one-third of the marks** of a question deducted per wrong answer (GS-I: +2 / −0.667; CSAT: +2.5 / −0.833). Unattempted = 0.
 - Both Prelims papers are on the same day (GS-I 9:30–11:30, CSAT 2:30–4:30). Appearing in either paper counts as an attempt.
-- Usual calendar: notification Jan–Feb; Prelims late May / early June; Mains Sept; Interview Jan–Apr next year. Dates move: check the official calendar.
+- Usual calendar: notification Jan–Feb (optional and language declared in the form); Prelims late May / early June; Prelims result ~2–3 weeks later; Mains mid/late Sept (~100 days after Prelims); Mains result ~Dec; Interview Jan–Apr next year; final result Apr–May. Dates move: check the official calendar.
+- Mains paper shape (typically): GS papers 20 questions in 3 hours (10-markers at ~150 words, 15-markers at ~250 words); Essay two essays, one from each section of four, 1000–1200 words each; GS IV roughly half theory, half case studies; Optional papers 8 questions, 5 to attempt with compulsory questions across sections. Paper A exemption applies to candidates from states listed in the rules (north-eastern states, Sikkim) and PwBD candidates with certain disabilities, per the notification.
+- Merit: Mains 1750 + Interview 275 = 2025. Prelims marks are not carried forward. Service and cadre allocation follow rank and the preferences given in DAF-II.
 
 ## Eligibility (age as on 1 August of the exam year)
 
@@ -49,6 +51,14 @@ Cutoffs: General category GS-I cutoff has typically sat in the high-80s to ~100 
 3. **Revision count**, not source count. One source, 4 revisions, beats four sources once.
 4. **CSAT competence** — scores of 60–70 fail. One PYQ paper early to diagnose; weekly practice if below 80.
 
+## What decides Mains and Interview
+
+1. **Answer count and speed**: all 20 answers attempted with structure beats 14 perfect ones. Build to 20 in 3 hours before the exam, not during it.
+2. **The optional (500 marks)** is the largest swing; choose for syllabus length, overlap and sustainable interest, not hearsay.
+3. **Essay and Ethics** are rank-makers because the spread between candidates is widest there.
+4. **Paper A and B** are qualifying but fail people every year; one weekend of practice each.
+5. **Interview**: the DAF is the syllabus; boards test balance, clarity and honesty more than facts.
+
 ## Common failure patterns to steer learners away from
 
 - Collecting PDFs and following several teachers at once instead of finishing one book.
@@ -56,4 +66,8 @@ Cutoffs: General category GS-I cutoff has typically sat in the high-80s to ~100 
 - Starting the optional or Mains answer writing before Prelims when the Prelims is < 7 months away.
 - Skipping mocks until "the syllabus is finished" (it never is).
 - Ignoring PYQs because "UPSC doesn't repeat" — it repeats themes, not questions.
-- Not planning leave for the final 2–3 weeks.
+- Not planning leave for the final 2–3 weeks before Prelims and 4–6 weeks before Mains.
+- Waiting for the Prelims result before starting Mains; the 100-day sprint is already short.
+- Choosing an optional by its "scoring reputation" and switching mid-way.
+- Treating Essay and Ethics as "common sense" and never practising them against a rubric.
+- Filling the DAF carelessly (hobbies you cannot discuss for 10 minutes; service preferences you cannot justify).

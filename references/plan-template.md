@@ -66,4 +66,6 @@ Put calendar dates on it with the script for any learner (the chapter order and 
 
 ## Mains and optional (what to tell a Prelims-focused learner)
 
+For the full cycle use `scripts/make_roadmap.py` and `references/roadmap.md`; for Mains preparation itself use `references/mains-overview.md`.
+
 Decide the optional by the application form (usually Feb) because it must be declared there; don't study it before Prelims when Prelims is < 7 months away. Mains answer writing starts the day after Prelims. For a working professional, say plainly that Mains three months after Prelims is hard without leave, and plan for it after Prelims, not now.

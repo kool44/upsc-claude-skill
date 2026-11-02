@@ -1,0 +1,4 @@
+schema_version: "1.1"
+name: ethics-case-study-and-grading
+expected_outcome: |
+  A realistic UPSC-style conflict-of-interest case study (district officer, specific facts, stakeholders), a step-by-step structure (facts/stakeholders, ethical issues naming the values in conflict, 3-4 options with merits/demerits, chosen course with justification, immediate/short/long-term actions, conclusion), a ~250-word model answer following it, a grading rubric with criteria and a scale, and 8-10 thinkers each with a correct one-line idea and attribution (e.g. Kant, Mill, Aristotle, Rawls, Gandhi, Kautilya, Ambedkar, Weber, Nolan principles).
