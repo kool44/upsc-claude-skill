@@ -11,7 +11,7 @@
    "weeks": [
     {
      "week": 1,
-     "theme": "Constitutional Framework: from Historical Background to Basic Structure, plus Fundamental Rights (2-8 Nov 2026)",
+     "theme": "Constitutional Framework: from Historical Background to Basic Structure, plus Fundamental Rights",
      "days": [
       {
        "day": "Mon",
@@ -59,7 +59,7 @@
     },
     {
      "week": 2,
-     "theme": "System of Government and the Union: Federalism, Emergency, President, PM and Council of Ministers, Parliament (9-15 Nov 2026)",
+     "theme": "System of Government and the Union: Federalism, Emergency, President, PM and Council of Ministers, Parliament",
      "days": [
       {
        "day": "Mon",
@@ -107,7 +107,7 @@
     },
     {
      "week": 3,
-     "theme": "Judiciary, State Government, Local Government, UTs and Special Areas, Constitutional and Non-constitutional Bodies (16-22 Nov 2026)",
+     "theme": "Judiciary, State Government, Local Government, UTs and Special Areas, Constitutional and Non-constitutional Bodies",
      "days": [
       {
        "day": "Mon",
@@ -337,7 +337,7 @@
      "days": [
       {
        "day": "Mon",
-       "task": "14 Dec. 15 min: revise the previous night's notes. 75 min reading: skim 'Geography as a Discipline' (10 min). Then read all of 'The Origin and Evolution of the Earth': the nebular and Big Bang theories, the formation of stars and planets, the Moon, and the evolution of the lithosphere, atmosphere and hydrosphere. Atlas (10 min): world physical map. Mark the continents, the major fold mountains (Andes, Rockies, Alps, Himalayas, Atlas, Urals) and the major plateaus.",
+       "task": "14 Dec. 15 min: revise the previous night's notes. 75 min reading: skim 'Geography as a Discipline' . Then read all of 'The Origin and Evolution of the Earth': the nebular and Big Bang theories, the formation of stars and planets, the Moon, and the evolution of the lithosphere, atmosphere and hydrosphere. Atlas : world physical map. Mark the continents, the major fold mountains (Andes, Rockies, Alps, Himalayas, Atlas, Urals) and the major plateaus.",
        "pyq": "Geography PYQs (2011-2026) on the solar system, the Earth's origin, the evolution of the atmosphere and the geological time scale. Do about 10, then write down why each wrong option is wrong.",
        "tip": "UPSC rarely asks the theories themselves. It asks the order of events. NCERT gives three stages for the atmosphere: (1) the primordial atmosphere is lost to solar winds, (2) degassing from the hot interior (degassing and outgassing are the same thing), and (3) photosynthesis by living things adds oxygen. Make a one-line timeline instead of prose notes."
       },
@@ -494,7 +494,7 @@
    "weeks": [
     {
      "week": 10,
-     "theme": "Macro foundations: national income, money & banking, RBI tools, inflation, budget basics (4-10 Jan 2027)",
+     "theme": "Macro foundations: national income, money & banking, RBI tools, inflation, budget basics",
      "days": [
       {
        "day": "Mon",
@@ -542,7 +542,7 @@
     },
     {
      "week": 11,
-     "theme": "Fiscal policy, taxation and GST, external sector, banking, financial markets, international institutions (11-17 Jan 2027)",
+     "theme": "Fiscal policy, taxation and GST, external sector, banking, financial markets, international institutions",
      "days": [
       {
        "day": "Mon",
@@ -590,7 +590,7 @@
     },
     {
      "week": 12,
-     "theme": "Indian Economic Development: planning, liberalisation, poverty, employment, agriculture, infrastructure, and Budget basics (18-24 Jan 2027)",
+     "theme": "Indian Economic Development: planning, liberalisation, poverty, employment, agriculture, infrastructure, and Budget basics",
      "days": [
       {
        "day": "Mon",
@@ -624,7 +624,7 @@
       },
       {
        "day": "Sat",
-       "task": "Budget day (3h). Read a standard summary of Union Budget 2026-27 for structure: receipts and expenditure composition (rupee comes from / goes to), deficit indicators, capex push, major tax changes, flagship schemes. Skim only the concept boxes and new terms of Economic Survey 2025-26 (45 min max). Skim IED Ch 8 'Comparative Development Experiences of India and its Neighbours' (15 min). Note: Economic Survey 2026-27 and Budget 2027-28 are due around end-January / 1 Feb 2027, so schedule their summaries on the first two Saturdays of February in the current-affairs hour. Then 2h PYQs and short notes, 1.5h CSAT (data interpretation), 1h current-affairs consolidation.",
+       "task": "Budget day (3h). Read a standard summary of Union Budget 2026-27 for structure: receipts and expenditure composition (rupee comes from / goes to), deficit indicators, capex push, major tax changes, flagship schemes. Skim only the concept boxes and new terms of Economic Survey 2025-26 (45 min max). Skim IED Ch 8 'Comparative Development Experiences of India and its Neighbours' . Note: Economic Survey 2026-27 and Budget 2027-28 are due around end-January / 1 Feb 2027, so schedule their summaries on the first two Saturdays of February in the current-affairs hour. Then 2h PYQs and short notes, 1.5h CSAT (data interpretation), 1h current-affairs consolidation.",
        "pyq": "PYQs where UPSC used Budget or Economic Survey themes (subsidies, capex, fiscal indicators, schemes), 2013-2026",
        "tip": "From the Budget and Survey, take only concepts and new schemes or terms, not exact figures. Prelims asks what a scheme does, not how much money it was given."
       },
@@ -784,7 +784,7 @@
       },
       {
        "day": "Wed",
-       "task": "Space technology (about 75 min). Note: NCERT Class 9 'Gravitation' does not cover escape velocity or orbits; skim it only for the universal law of gravitation, free fall and mass vs weight (10 min), and take orbits from your notes source. Then notes on orbit types (LEO, MEO, GEO vs GSO, polar sun-synchronous, GTO), Lagrange points L1-L5, launch vehicles (PSLV, GSLV, LVM3, SSLV; cryogenic stage), Indian missions (Chandrayaan-1/2/3, Mangalyaan, Aditya-L1, AstroSat, XPoSat), NavIC/IRNSS vs GAGAN, space debris, reusable launch vehicles, and a short note on black holes and gravitational waves (LIGO-India).",
+       "task": "Space technology (about 75 min). Note: NCERT Class 9 'Gravitation' does not cover escape velocity or orbits; skim it only for the universal law of gravitation, free fall and mass vs weight , and take orbits from your notes source. Then notes on orbit types (LEO, MEO, GEO vs GSO, polar sun-synchronous, GTO), Lagrange points L1-L5, launch vehicles (PSLV, GSLV, LVM3, SSLV; cryogenic stage), Indian missions (Chandrayaan-1/2/3, Mangalyaan, Aditya-L1, AstroSat, XPoSat), NavIC/IRNSS vs GAGAN, space debris, reusable launch vehicles, and a short note on black holes and gravitational waves (LIGO-India).",
        "pyq": "Space PYQs (2013-2026): IRNSS/NavIC, Mars Orbiter Mission, Lagrange points, GSAT/cryogenic engine, black holes and gravitational waves, space debris.",
        "tip": "Draw one orbit diagram with altitudes and uses. UPSC often swaps uses between orbits (remote sensing vs communication), so learn which orbit suits which job."
       },
@@ -897,7 +897,7 @@
      "days": [
       {
        "day": "Sat 14 Nov 2026",
-       "task": "Warm-up: 2 RC passages (15 min). Then HCF/LCM word problems (bells tolling, tiles, largest measuring length), factors and counting factors, digit-based problems, trailing zeroes in n!, and remainder theorems.",
+       "task": "Warm-up: 2 RC passages . Then HCF/LCM word problems (bells tolling, tiles, largest measuring length), factors and counting factors, digit-based problems, trailing zeroes in n!, and remainder theorems.",
        "pyq": "Number System Qs from CSAT 2015-2018 and 2022-2023",
        "tip": "Trailing zeroes in n! = [n/5] + [n/25] + [n/125]... UPSC digit puzzles often fall faster if you test the options than if you set up algebra."
       }
