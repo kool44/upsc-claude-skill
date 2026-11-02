@@ -1,0 +1,1235 @@
+{
+ "note": "Original UPSC-Prelims-style MCQs, each independently fact-checked. answer is 0-based index into options.",
+ "subjects": [
+  {
+   "key": "polity",
+   "name": "Polity",
+   "mcqs": [
+    {
+     "topic": "Preamble",
+     "q": "Consider the following statements about the Preamble to the Constitution of India:\n1. It has been amended only once, by the 42nd Constitutional Amendment Act, 1976, which added the words 'Socialist', 'Secular' and 'Integrity'.\n2. In the Kesavananda Bharati case, the Supreme Court held that the Preamble is a part of the Constitution.\n3. The Preamble is a source of legislative power for Parliament.\nWhich of the statements given above is/are correct?",
+     "options": [
+      "1 only",
+      "1 and 2 only",
+      "2 and 3 only",
+      "1, 2 and 3"
+     ],
+     "answer": 1,
+     "explanation": "The 42nd Amendment (1976) is the only amendment to the Preamble so far, and it added those three words. Berubari (1960) had said the Preamble is not part of the Constitution; Kesavananda (1973) reversed this. The Preamble is neither a source of power to the legislature nor a limit on its powers."
+    },
+    {
+     "topic": "Fundamental Rights",
+     "q": "Consider the following Fundamental Rights:\n1. Equality before law (Article 14)\n2. Protection in respect of conviction for offences (Article 20)\n3. Protection of life and personal liberty (Article 21)\n4. Right of minorities to establish and administer educational institutions (Article 30)\nHow many of the above are available to foreigners as well as citizens?",
+     "options": [
+      "Only one",
+      "Only two",
+      "Only three",
+      "All four"
+     ],
+     "answer": 2,
+     "explanation": "Articles 14, 20 and 21 are available to all persons, citizens or foreigners. Articles 15, 16, 19, 29 and 30 are available only to citizens, so Article 30 is the one that is not."
+    },
+    {
+     "topic": "Parliament - Money Bill",
+     "q": "Consider the following statements regarding a Money Bill:\n1. It can be introduced only in the Lok Sabha and only on the recommendation of the President.\n2. The Rajya Sabha can withhold it for a maximum of 14 days, after which it is deemed to have been passed by both Houses.\n3. Under the Constitution, the decision of the Speaker of the Lok Sabha on whether a Bill is a Money Bill is final.\nWhich of the statements given above is/are correct?",
+     "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+     ],
+     "answer": 3,
+     "explanation": "Under Articles 109 and 117, a Money Bill starts only in the Lok Sabha on the President's recommendation, and the Rajya Sabha must return it within 14 days or it is deemed passed by both Houses. Article 110(3) says the Speaker's decision on whether a Bill is a Money Bill is final. (Whether courts can review that certification was referred to a larger Bench in Rojer Mathew, 2019, but the constitutional text itself says 'final'.)"
+    },
+    {
+     "topic": "Writs",
+     "q": "Consider the following statements:\n1. The writ of mandamus cannot be issued against the President of India or the Governor of a State.\n2. The writ of quo warranto can be sought only by the person aggrieved.\n3. The writ of habeas corpus can be issued against public authorities as well as private individuals.\nHow many of the above statements are correct?",
+     "options": [
+      "Only one",
+      "Only two",
+      "All three",
+      "None"
+     ],
+     "answer": 1,
+     "explanation": "Mandamus does not lie against the President or a State Governor acting in their official capacity, so statement 1 is correct. Habeas corpus lies against both the State and private persons, so statement 3 is correct. Statement 2 is wrong: any interested person can seek quo warranto, not only the person aggrieved."
+    },
+    {
+     "topic": "Emergency Provisions",
+     "q": "Consider the following statements:\n1. A proclamation of National Emergency must be approved by both Houses of Parliament within one month by a special majority.\n2. A proclamation of President's Rule must be approved by both Houses of Parliament within two months by a simple majority.\n3. A proclamation of Financial Emergency, once approved by both Houses, continues indefinitely until it is revoked.\nHow many of the above statements are correct?",
+     "options": [
+      "Only one",
+      "Only two",
+      "All three",
+      "None"
+     ],
+     "answer": 2,
+     "explanation": "After the 44th Amendment, a National Emergency needs approval within one month by special majority. President's Rule (Art 356) needs approval within two months by simple majority. A Financial Emergency (Art 360), once approved, continues until revoked, with no maximum period and no repeated approval needed."
+    },
+    {
+     "topic": "Schedules of the Constitution",
+     "q": "Consider the following pairs:\nSchedule — Subject matter\n1. Second Schedule — Forms of oaths and affirmations\n2. Sixth Schedule — Administration of tribal areas in Assam, Meghalaya, Tripura and Mizoram\n3. Seventh Schedule — Union, State and Concurrent Lists\n4. Tenth Schedule — Disqualification on the ground of defection\nHow many of the above pairs are correctly matched?",
+     "options": [
+      "Only one",
+      "Only two",
+      "Only three",
+      "All four"
+     ],
+     "answer": 2,
+     "explanation": "Oaths and affirmations are in the Third Schedule. The Second Schedule covers the emoluments and allowances of constitutional functionaries, so pair 1 is wrong. Pairs 2, 3 and 4 are correctly matched."
+    },
+    {
+     "topic": "President and Vice-President - Elections",
+     "q": "With reference to the elections of the President and the Vice-President of India, consider the following statements:\n1. Nominated members of the Rajya Sabha vote in the election of the President.\n2. Members of State Legislative Councils do not vote in the election of the President.\n3. Nominated members of both Houses of Parliament vote in the election of the Vice-President.\nWhich of the statements given above is/are correct?",
+     "options": [
+      "1 and 3 only",
+      "1, 2 and 3",
+      "2 and 3 only",
+      "2 only"
+     ],
+     "answer": 2,
+     "explanation": "The President's electoral college has only the elected members of Parliament and of the State and UT Legislative Assemblies. Nominated members and MLCs are excluded. The Vice-President is elected by all members of both Houses of Parliament, including nominated members."
+    },
+    {
+     "topic": "President - Pardoning power",
+     "q": "Consider the following statements:\n1. The President can pardon a sentence inflicted by a court-martial, but a Governor cannot.\n2. The President exercises the pardoning power under Article 72 on the advice of the Union Council of Ministers.\n3. The President's decision on a mercy petition is completely immune from judicial review.\nWhich of the statements given above is/are correct?",
+     "options": [
+      "1 only",
+      "2 and 3 only",
+      "1 and 2 only",
+      "1, 2 and 3"
+     ],
+     "answer": 2,
+     "explanation": "Article 72 covers court-martial sentences and Article 161 (Governor) does not. In Maru Ram (1980) the Supreme Court held that the power is exercised on ministerial advice. Courts can review the decision on limited grounds such as arbitrariness or mala fides (Epuru Sudhakar, 2006), so statement 3 is wrong."
+    },
+    {
+     "topic": "Directive Principles of State Policy",
+     "q": "Which one of the following Directive Principles of State Policy is classified as a Gandhian principle?",
+     "options": [
+      "Securing equal justice and free legal aid to the poor",
+      "Securing a uniform civil code for citizens throughout the country",
+      "Promoting cottage industries on an individual or co-operative basis in rural areas",
+      "Separating the judiciary from the executive in the public services of the State"
+     ],
+     "answer": 2,
+     "explanation": "Promoting cottage industries in rural areas (Article 43) reflects Gandhian ideology. Free legal aid (Art 39A) is a socialistic principle. A uniform civil code (Art 44) and separation of the judiciary (Art 50) are liberal-intellectual principles."
+    },
+    {
+     "topic": "Fundamental Duties",
+     "q": "Consider the following statements about Fundamental Duties:\n1. They were added by the 42nd Amendment Act, 1976, on the recommendation of the Swaran Singh Committee.\n2. The eleventh duty, relating to providing opportunities for education to children, was added by the 86th Amendment Act, 2002.\n3. They are directly enforceable by courts through writs.\nHow many of the above statements are correct?",
+     "options": [
+      "Only one",
+      "Only two",
+      "All three",
+      "None"
+     ],
+     "answer": 1,
+     "explanation": "The 42nd Amendment added ten duties in Article 51A based on the Swaran Singh Committee, and the 86th Amendment added the eleventh, Art 51A(k). Fundamental Duties are not justiciable: courts cannot enforce them directly, though Parliament may enforce them by law."
+    },
+    {
+     "topic": "Amendment of the Constitution",
+     "q": "Consider the following statements regarding a Bill to amend the Constitution under Article 368:\n1. It requires the prior recommendation of the President for its introduction.\n2. The President must give assent to the duly passed Bill and can neither withhold assent nor return it for reconsideration.\n3. It can be introduced by a private member.\nWhich of the statements given above is/are correct?",
+     "options": [
+      "1 only",
+      "1 and 2 only",
+      "2 and 3 only",
+      "1, 2 and 3"
+     ],
+     "answer": 2,
+     "explanation": "An amendment Bill can be introduced in either House by a minister or a private member without the President's prior permission. Since the 24th Amendment (1971), the President must give assent to a duly passed amendment Bill."
+    },
+    {
+     "topic": "Panchayati Raj",
+     "q": "Consider the following statements regarding the 73rd Constitutional Amendment Act, 1992:\n1. Reservation of seats for Other Backward Classes in panchayats is mandatory.\n2. The State Election Commissioner can be removed only in the manner and on the grounds prescribed for removing a judge of a High Court.\n3. The provisions of Part IX apply automatically to Fifth Schedule areas without any law of Parliament.\nWhich of the statements given above is/are correct?",
+     "options": [
+      "2 only",
+      "1 and 2 only",
+      "2 and 3 only",
+      "1, 2 and 3"
+     ],
+     "answer": 0,
+     "explanation": "OBC reservation is a voluntary provision left to the states. Article 243K(2) protects the State Election Commissioner by giving him the same removal procedure as a High Court judge. Under Article 243M, Part IX does not apply to Scheduled Areas unless Parliament extends it, which it did with modifications through PESA, 1996."
+    },
+    {
+     "topic": "Constitutional and Statutory Bodies",
+     "q": "Which one of the following is NOT a constitutional body?",
+     "options": [
+      "Finance Commission",
+      "National Commission for Backward Classes",
+      "Special Officer for Linguistic Minorities",
+      "Central Vigilance Commission"
+     ],
+     "answer": 3,
+     "explanation": "The Central Vigilance Commission was set up by executive resolution in 1964 and given statutory status by the CVC Act, 2003. It is not mentioned in the Constitution. The Finance Commission (Art 280), the NCBC (Art 338B, inserted by the 102nd Amendment) and the Special Officer for Linguistic Minorities (Art 350B) are constitutional bodies."
+    },
+    {
+     "topic": "Parliament - Rajya Sabha",
+     "q": "Consider the following statements:\n1. The Rajya Sabha can authorise Parliament to make a law on a State List subject by a resolution supported by two-thirds of its members present and voting.\n2. A resolution for the removal of the Vice-President can be introduced only in the Rajya Sabha.\n3. The Rajya Sabha can be dissolved by the President on the advice of the Prime Minister.\nWhich of the statements given above is/are correct?",
+     "options": [
+      "1 only",
+      "1 and 2 only",
+      "2 and 3 only",
+      "1, 2 and 3"
+     ],
+     "answer": 1,
+     "explanation": "Article 249 gives the Rajya Sabha this special power. Under Article 67(b), a resolution to remove the Vice-President can be introduced only in the Rajya Sabha. The Rajya Sabha is a permanent House and cannot be dissolved; one-third of its members retire every second year."
+    }
+   ]
+  },
+  {
+   "key": "history",
+   "name": "Modern History + Art & Culture",
+   "mcqs": [
+    {
+     "topic": "Revolt of 1857",
+     "q": "Consider the following pairs (Centre of the Revolt of 1857 : Leader):\n1. Kanpur : Nana Saheb\n2. Lucknow : Begum Hazrat Mahal\n3. Bareilly : Kunwar Singh\n4. Delhi : Bakht Khan\nHow many of the pairs given above are correctly matched?",
+     "options": [
+      "Only one",
+      "Only two",
+      "Only three",
+      "All four"
+     ],
+     "answer": 2,
+     "explanation": "Nana Saheb led at Kanpur and Begum Hazrat Mahal at Lucknow. At Delhi, Bahadur Shah Zafar was the nominal leader and General Bakht Khan commanded the rebel forces. Bareilly was led by Khan Bahadur Khan. Kunwar Singh led the revolt at Jagdishpur/Arrah in Bihar, so pair 3 is wrong."
+    },
+    {
+     "topic": "European trading settlements",
+     "q": "Consider the following pairs (Settlement : European power that established it):\n1. Tranquebar : Danes\n2. Chinsura : Dutch\n3. Chandernagore : Portuguese\n4. Pondicherry : French\nHow many of the pairs given above are correctly matched?",
+     "options": [
+      "Only one",
+      "Only two",
+      "Only three",
+      "All four"
+     ],
+     "answer": 2,
+     "explanation": "The Danes set up at Tranquebar (1620), the Dutch at Chinsura, and the French at Pondicherry (1674). Chandernagore was a French settlement, not Portuguese. The Portuguese were at Hooghly/Bandel in Bengal. So pair 3 is wrong."
+    },
+    {
+     "topic": "Socio-religious reform movements",
+     "q": "Consider the following statements:\n1. The Prarthana Samaj was founded in Bombay with the help of Keshub Chandra Sen.\n2. Swami Dayanand Saraswati wrote 'Satyarth Prakash'.\n3. The Ramakrishna Mission was founded by Ramakrishna Paramhansa himself.\nWhich of the statements given above is/are correct?",
+     "options": [
+      "1, 2 and 3",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1 and 2 only"
+     ],
+     "answer": 3,
+     "explanation": "The Prarthana Samaj (1867, Bombay) was founded by Atmaram Pandurang with the help of Keshub Chandra Sen. Dayanand Saraswati, founder of the Arya Samaj, wrote Satyarth Prakash. The Ramakrishna Mission was founded by Swami Vivekananda in 1897, after Ramakrishna's death, so statement 3 is wrong."
+    },
+    {
+     "topic": "Constitutional developments",
+     "q": "With reference to the Government of India Act, 1919, consider the following statements:\n1. It introduced dyarchy in the provinces.\n2. It made the central legislature bicameral.\n3. It introduced provincial autonomy.\nWhich of the statements given above is/are correct?",
+     "options": [
+      "1 only",
+      "1 and 2 only",
+      "2 and 3 only",
+      "1, 2 and 3"
+     ],
+     "answer": 1,
+     "explanation": "The 1919 Act (Montagu-Chelmsford Reforms) divided provincial subjects into transferred and reserved subjects (dyarchy) and created a bicameral central legislature. Provincial autonomy, which replaced dyarchy in the provinces, came only with the Government of India Act, 1935."
+    },
+    {
+     "topic": "Charter Acts",
+     "q": "Which one of the following Acts ended the East India Company's monopoly of trade with India, but kept its monopoly over trade in tea and trade with China?",
+     "options": [
+      "Charter Act of 1793",
+      "Charter Act of 1833",
+      "Charter Act of 1853",
+      "Charter Act of 1813"
+     ],
+     "answer": 3,
+     "explanation": "The Charter Act of 1813 ended the Company's trade monopoly in India except for tea and trade with China. It also set aside one lakh rupees a year for education. The Charter Act of 1833 ended the Company's commercial activities altogether."
+    },
+    {
+     "topic": "Land revenue systems",
+     "q": "Consider the following statements:\n1. Under the Permanent Settlement, the zamindars were recognised as owners of the land and the revenue demand was fixed permanently.\n2. The Ryotwari system was introduced mainly in Bengal.\n3. The Mahalwari system, associated with Holt Mackenzie, made the revenue settlement with the village or estate (mahal) as a whole.\nWhich of the statements given above is/are correct?",
+     "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+     ],
+     "answer": 2,
+     "explanation": "Cornwallis's Permanent Settlement (1793) made zamindars the owners of the land and fixed the revenue permanently. The Ryotwari system, linked with Thomas Munro and Alexander Read, was introduced mainly in the Madras and Bombay Presidencies, not Bengal. Bengal had the Permanent Settlement, so statement 2 is wrong. Holt Mackenzie's Mahalwari system (1822) made the settlement with the village or estate as a unit."
+    },
+    {
+     "topic": "Indian National Congress sessions",
+     "q": "Consider the following statements:\n1. The first session of the Indian National Congress was held in Bombay and presided over by W.C. Bonnerjee.\n2. At the Lucknow session of 1916, the Moderates and Extremists reunited and the Congress-League Pact was concluded.\n3. The Surat session of 1907 was presided over by Bal Gangadhar Tilak.\nHow many of the statements given above are correct?",
+     "options": [
+      "Only one",
+      "Only two",
+      "All three",
+      "None"
+     ],
+     "answer": 1,
+     "explanation": "The first INC session (December 1885, Bombay) was presided over by W.C. Bonnerjee. The 1916 Lucknow session saw both the Moderate-Extremist reunion and the Lucknow Pact. The Surat session of 1907, where the Congress split, was presided over by Rash Behari Ghosh, not Tilak."
+    },
+    {
+     "topic": "Gandhi's early satyagrahas",
+     "q": "Consider the following statements:\n1. The Champaran Satyagraha was against the 'tinkathia' system imposed on indigo cultivators.\n2. During the Ahmedabad mill strike, Gandhi used the hunger strike for the first time in India.\n3. The Kheda Satyagraha was mainly against the government's salt monopoly.\nWhich of the statements given above is/are correct?",
+     "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+     ],
+     "answer": 0,
+     "explanation": "At Champaran (1917), peasants were forced to grow indigo on 3/20th of their land (tinkathia). In the Ahmedabad mill strike (1918), Gandhi used a hunger strike for the first time in India to back the workers' wage demand. Kheda (1918) was a demand for remission of land revenue after crop failure, not about salt."
+    },
+    {
+     "topic": "Development of the press",
+     "q": "With reference to the Vernacular Press Act, 1878, consider the following statements:\n1. It was passed during the viceroyalty of Lord Lytton.\n2. It was repealed by Lord Ripon.\n3. The Amrita Bazar Patrika escaped the Act by turning overnight into an English-language newspaper.\nHow many of the statements given above are correct?",
+     "options": [
+      "Only one",
+      "Only two",
+      "All three",
+      "None"
+     ],
+     "answer": 2,
+     "explanation": "The Act was passed under Lord Lytton to control Indian-language newspapers and was repealed by Lord Ripon in 1882. Because it applied only to vernacular papers, the Amrita Bazar Patrika converted into an English newspaper to escape it. All three statements are correct."
+    },
+    {
+     "topic": "Development of education",
+     "q": "With reference to Wood's Despatch of 1854, consider the following statements:\n1. It recommended setting up universities at Calcutta, Bombay and Madras.\n2. It recommended English as the medium of instruction at the primary level.\n3. It recommended a system of grants-in-aid to encourage private enterprise in education.\nWhich of the statements given above is/are correct?",
+     "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+     ],
+     "answer": 2,
+     "explanation": "Wood's Despatch proposed universities on the London University model in the three Presidency towns (set up in 1857) and grants-in-aid for private institutions. It favoured vernacular languages at the primary level and English for higher education, so statement 2 is wrong."
+    },
+    {
+     "topic": "Cabinet Mission",
+     "q": "With reference to the Cabinet Mission Plan of 1946, consider the following statements:\n1. It rejected the demand for a full-fledged sovereign Pakistan.\n2. It proposed that members of the Constituent Assembly be elected by the provincial legislative assemblies.\n3. The Mission was headed by Sir Stafford Cripps.\nWhich of the statements given above is/are correct?",
+     "options": [
+      "1 only",
+      "1 and 2 only",
+      "2 and 3 only",
+      "1, 2 and 3"
+     ],
+     "answer": 1,
+     "explanation": "The Cabinet Mission rejected a full-fledged Pakistan and instead proposed groupings of provinces (A, B, C) under a weak Union. The Constituent Assembly was to be elected indirectly by the provincial legislative assemblies, with seats allotted by population and community. The Mission was headed by Lord Pethick-Lawrence, Secretary of State for India. Stafford Cripps and A.V. Alexander were the other members, so statement 3 is wrong."
+    },
+    {
+     "topic": "Temple architecture",
+     "q": "Consider the following pairs (Temple : Dynasty that built it):\n1. Brihadeeswara Temple, Thanjavur : Cholas\n2. Kandariya Mahadeva Temple, Khajuraho : Chandelas\n3. Sun Temple, Konark : Eastern Gangas\n4. Kailasa Temple, Ellora : Pallavas\nWhich of the pairs given above are correctly matched?",
+     "options": [
+      "1 and 2 only",
+      "1, 2 and 3 only",
+      "2, 3 and 4 only",
+      "1, 2, 3 and 4"
+     ],
+     "answer": 1,
+     "explanation": "The Brihadeeswara temple was built by Rajaraja I (Chola), Kandariya Mahadeva by the Chandelas, and the Konark Sun Temple by Narasimhadeva I of the Eastern Ganga dynasty. The rock-cut Kailasa temple at Ellora was built under the Rashtrakuta king Krishna I, not the Pallavas."
+    },
+    {
+     "topic": "Buddhist art and sculpture schools",
+     "q": "Consider the following statements about schools of sculpture in early India:\n1. The Gandhara school mainly used grey/blue-grey schist and shows strong Hellenistic influence.\n2. The Mathura school mainly used spotted red sandstone.\n3. The Amaravati school developed in north-western India under Kushana patronage.\nWhich of the statements given above is/are NOT correct?",
+     "options": [
+      "3 only",
+      "1 and 3 only",
+      "2 only",
+      "1, 2 and 3"
+     ],
+     "answer": 0,
+     "explanation": "Gandhara art used grey schist and blue-grey stone and shows Greco-Roman influence. Mathura art used spotted red sandstone. The Amaravati school grew up in the Krishna-Godavari region of Andhra under Satavahana patronage and used white marble, so statement 3 is the incorrect one."
+    },
+    {
+     "topic": "Indian paintings",
+     "q": "The famous painting 'Bani Thani', often called the 'Indian Mona Lisa', belongs to which school of painting?",
+     "options": [
+      "Kangra",
+      "Basohli",
+      "Mewar",
+      "Kishangarh"
+     ],
+     "answer": 3,
+     "explanation": "Bani Thani was painted by Nihal Chand at the court of Raja Sawant Singh of Kishangarh, a Rajasthani school. Kishangarh paintings are known for elongated faces, arched eyebrows and lotus-shaped eyes."
+    },
+    {
+     "topic": "Classical dances",
+     "q": "Consider the following statements:\n1. Sattriya was introduced in Assam by the Vaishnava saint Srimanta Sankaradeva.\n2. Mohiniyattam is a solo dance of Kerala traditionally performed by women.\n3. Kuchipudi takes its name from a village in Andhra Pradesh.\n4. Kathakali was traditionally performed only by women.\nHow many of the statements given above are correct?",
+     "options": [
+      "Only one",
+      "Only two",
+      "Only three",
+      "All four"
+     ],
+     "answer": 2,
+     "explanation": "Sattriya grew out of the sattras (monasteries) founded by Sankaradeva. Mohiniyattam is a solo female dance of Kerala, and Kuchipudi is named after Kuchipudi village in Andhra Pradesh. Kathakali was traditionally an all-male dance-drama, with men also playing the female roles, so statement 4 is wrong."
+    },
+    {
+     "topic": "Indian music",
+     "q": "Consider the following statements:\n1. Purandara Dasa is regarded as the 'Pitamaha' (father) of Carnatic music.\n2. Dhrupad is a vocal genre of Carnatic music.\nWhich of the statements given above is/are correct?",
+     "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+     ],
+     "answer": 0,
+     "explanation": "Purandara Dasa set out the basic graded lessons of Carnatic music and is called its Pitamaha. Dhrupad is one of the oldest vocal genres of Hindustani music, associated with Tansen and the Dagar tradition, not Carnatic music."
+    },
+    {
+     "topic": "Bhakti and Sufi movements",
+     "q": "Consider the following statements:\n1. The Chishti order in India was established by Khwaja Moinuddin Chishti, with its main centre at Ajmer.\n2. Shaikh Nizamuddin Auliya belonged to the Suhrawardi order.\n3. Shaikh Bahauddin Zakariya established the Suhrawardi order in India, with Multan as its main centre.\nWhich of the statements given above is/are correct?",
+     "options": [
+      "1 and 3 only",
+      "1 only",
+      "2 and 3 only",
+      "1, 2 and 3"
+     ],
+     "answer": 0,
+     "explanation": "Moinuddin Chishti founded the Chishti silsila in India at Ajmer, and Bahauddin Zakariya founded the Suhrawardi order with Multan as its centre. Nizamuddin Auliya of Delhi was a leading Chishti saint (a disciple of Baba Farid), not a Suhrawardi, so statement 2 is wrong."
+    }
+   ]
+  },
+  {
+   "key": "geography",
+   "name": "Geography",
+   "mcqs": [
+    {
+     "topic": "Interior of the Earth",
+     "q": "Consider the following statements:\n1. S-waves cannot travel through liquid materials.\n2. The shadow zone of P-waves is larger than the shadow zone of S-waves.\nWhich of the statements given above is/are correct?",
+     "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+     ],
+     "answer": 0,
+     "explanation": "S-waves are transverse waves, so they cannot pass through liquids. This is why they are not recorded beyond the liquid outer core. The S-wave shadow zone covers everything beyond about 105 degrees from the epicentre. The P-wave shadow zone is only the band between 105 and 145 degrees, so the S-wave shadow zone is much larger and statement 2 is wrong."
+    },
+    {
+     "topic": "Temperature inversion",
+     "q": "Consider the following statements about temperature inversion:\n1. It is common over plains during long winter nights with clear skies and still air.\n2. It produces stable atmospheric conditions that favour the formation of fog.\n3. It helps the vertical dispersion of pollutants away from the surface.\nWhich of the statements given above are correct?",
+     "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+     ],
+     "answer": 0,
+     "explanation": "Long, clear and calm nights let the ground lose heat quickly, so the air near the surface becomes colder than the air above it. This creates stable conditions and fog. The stable layer stops vertical mixing, so pollutants are trapped near the surface rather than dispersed. Statement 3 is therefore wrong."
+    },
+    {
+     "topic": "Ocean currents",
+     "q": "Consider the following pairs:\nOcean current : Nature\n1. Benguela Current : Cold\n2. Kuroshio Current : Warm\n3. Canary Current : Warm\nHow many of the pairs given above are correctly matched?",
+     "options": [
+      "Only one",
+      "Only two",
+      "All three",
+      "None"
+     ],
+     "answer": 1,
+     "explanation": "The Benguela Current is a cold current off south-west Africa. The Kuroshio is a warm current off Japan in the North Pacific. The Canary Current is a cold current off north-west Africa, so pair 3 is wrong."
+    },
+    {
+     "topic": "Indian monsoon mechanism",
+     "q": "Consider the following statements regarding the Indian monsoon:\n1. In summer, the subtropical westerly jet stream shifts to the north of the Himalayas, which helps the onset of the monsoon.\n2. A tropical easterly jet stream develops over the southern part of the Peninsula during the monsoon season.\n3. El Nino years are generally associated with a weaker south-west monsoon over India.\nWhich of the statements given above are correct?",
+     "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+     ],
+     "answer": 3,
+     "explanation": "The westerly jet stream withdraws from its winter position south of the Himalayas and moves north of them, which allows the monsoon to burst. NCERT notes that the tropical easterly jet stream blows over the southern Peninsula in June. El Nino warms the eastern Pacific and is generally linked to a weaker Indian monsoon. All three statements are correct."
+    },
+    {
+     "topic": "Peninsular drainage",
+     "q": "Which of the following rivers drain into the Arabian Sea?\n1. Narmada\n2. Tapi\n3. Mahi\n4. Mahanadi\nSelect the correct answer using the code given below.",
+     "options": [
+      "1 and 2 only",
+      "1, 2 and 3 only",
+      "2, 3 and 4 only",
+      "1, 2, 3 and 4"
+     ],
+     "answer": 1,
+     "explanation": "The Narmada and Tapi flow west through rift valleys into the Arabian Sea. The Mahi also flows west, into the Gulf of Khambhat, which is part of the Arabian Sea. The Mahanadi flows east into the Bay of Bengal."
+    },
+    {
+     "topic": "Himalayan passes",
+     "q": "Consider the following pairs:\nPass : State\n1. Shipki La : Himachal Pradesh\n2. Nathu La : Sikkim\n3. Bomdi La : Arunachal Pradesh\nHow many of the pairs given above are correctly matched?",
+     "options": [
+      "Only one",
+      "Only two",
+      "All three",
+      "None"
+     ],
+     "answer": 2,
+     "explanation": "Shipki La is in Himachal Pradesh, where the Satluj enters India. Nathu La is in Sikkim and connects it with the Chumbi valley of Tibet. Bomdi La is in Arunachal Pradesh. All three pairs are correct."
+    },
+    {
+     "topic": "Soils of India",
+     "q": "Consider the following statements:\n1. Black soils retain moisture well and develop deep cracks in the dry season.\n2. Laterite soils are rich in humus and nitrogen.\n3. The red colour of red soils comes from iron diffused through crystalline and metamorphic rocks.\nWhich of the statements given above is/are correct?",
+     "options": [
+      "1 only",
+      "1 and 3 only",
+      "2 and 3 only",
+      "1, 2 and 3"
+     ],
+     "answer": 1,
+     "explanation": "Black soils are clayey and hold moisture. They swell when wet and crack when dry. Red soils get their colour from iron diffused in crystalline and metamorphic rocks. Laterite soils are leached by heavy rainfall and are poor in organic matter, nitrogen, phosphate and calcium, so statement 2 is wrong."
+    },
+    {
+     "topic": "World climate (Koeppen)",
+     "q": "In which of the following regions does most of the annual rainfall occur in winter?",
+     "options": [
+      "Central Chile",
+      "Amazon Basin",
+      "Middle Ganga Plain",
+      "Congo Basin"
+     ],
+     "answer": 0,
+     "explanation": "Central Chile has a Mediterranean (Cs) climate. This climate is found on the western margins of continents between about 30 and 40 degrees latitude, where most rain comes in winter from the westerlies. The Amazon and Congo basins get rain all year, and the Ganga plain gets most of its rain from the summer monsoon."
+    },
+    {
+     "topic": "Landforms and agents",
+     "q": "Consider the following pairs:\nLandform : Main agent\n1. Cirque : Glacier\n2. Barchan : Wind\n3. Stalactite : Groundwater\n4. Oxbow lake : Sea waves\nHow many of the pairs given above are correctly matched?",
+     "options": [
+      "Only one",
+      "Only two",
+      "Only three",
+      "All four"
+     ],
+     "answer": 2,
+     "explanation": "A cirque is a hollow eroded by a glacier. A barchan is a crescent-shaped dune deposited by wind. A stalactite is a karst feature formed when groundwater deposits calcium carbonate. An oxbow lake forms when a river cuts off one of its meanders, so pair 4 is wrong."
+    },
+    {
+     "topic": "Structure of the atmosphere",
+     "q": "Consider the following statements:\n1. Most of the atmospheric ozone lies in the stratosphere.\n2. The troposphere is thicker at the equator than at the poles.\n3. Temperature decreases with height throughout the stratosphere.\nWhich of the statements given above is/are correct?",
+     "options": [
+      "1 only",
+      "1 and 2 only",
+      "2 and 3 only",
+      "1, 2 and 3"
+     ],
+     "answer": 1,
+     "explanation": "The ozone layer lies mainly in the stratosphere. The troposphere is about 18 km thick at the equator and about 8 km thick at the poles, because strong convection carries heat higher near the equator. In the stratosphere, temperature stays roughly constant in the lower part and then rises with height as ozone absorbs UV radiation. It does not fall throughout, so statement 3 is wrong."
+    },
+    {
+     "topic": "Plate tectonics",
+     "q": "Consider the following statements:\n1. Mid-oceanic ridges mark divergent plate boundaries.\n2. Ocean-floor rocks get progressively older with distance from a mid-oceanic ridge.\n3. The oldest rocks of the ocean floor are older than the oldest continental rocks.\nWhich of the statements given above is/are correct?",
+     "options": [
+      "1 and 2 only",
+      "3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+     ],
+     "answer": 0,
+     "explanation": "New crust forms at mid-oceanic ridges, where plates move apart. Rocks therefore get older with distance from the ridge, which is the basis of sea-floor spreading. NCERT notes that ocean-floor rocks are no older than about 200 million years, while some continental rocks are about 3,200 million years old. Statement 3 is therefore wrong."
+    },
+    {
+     "topic": "Indian islands",
+     "q": "Consider the following statements:\n1. The Lakshadweep islands are of coral origin.\n2. Barren Island, India's only active volcano, is part of the Andaman and Nicobar Islands.\n3. The Ten Degree Channel separates the Andaman group from the Nicobar group.\nHow many of the statements given above are correct?",
+     "options": [
+      "Only one",
+      "Only two",
+      "All three",
+      "None"
+     ],
+     "answer": 2,
+     "explanation": "Lakshadweep is made up of coral atolls and reefs. Barren Island in the Andaman Sea is India's only active volcano. The Ten Degree Channel lies between Little Andaman and Car Nicobar and separates the two island groups. All three statements are correct."
+    },
+    {
+     "topic": "Natural vegetation of India",
+     "q": "Consider the following statements:\n1. Tropical evergreen forests in India are found on the western slopes of the Western Ghats and in the north-eastern region.\n2. Teak and sal are important species of the tropical deciduous forests.\n3. Tropical thorn forests occur in areas receiving more than 150 cm of annual rainfall.\nWhich of the statements given above is/are correct?",
+     "options": [
+      "1 only",
+      "2 only",
+      "1 and 2 only",
+      "1, 2 and 3"
+     ],
+     "answer": 2,
+     "explanation": "Evergreen forests need more than 200 cm of rain. The windward Western Ghats and the north-east get this much, and so do the Andaman and Nicobar Islands. Teak and sal are typical deciduous species. NCERT says thorn forests grow where rainfall is below 50 cm, as in parts of Rajasthan and Gujarat, so statement 3 is wrong."
+    },
+    {
+     "topic": "Himalayan drainage",
+     "q": "Which one of the following is NOT a tributary of the Indus river system?",
+     "options": [
+      "Jhelum",
+      "Chenab",
+      "Shyok",
+      "Gomti"
+     ],
+     "answer": 3,
+     "explanation": "The Jhelum and Chenab are Panjnad rivers that reach the Indus through the Panjnad. The Shyok is a right-bank tributary that rises in the Karakoram, flows through Ladakh and joins the Indus. The Gomti is a left-bank tributary of the Ganga in Uttar Pradesh."
+    }
+   ]
+  },
+  {
+   "key": "economy",
+   "name": "Economy",
+   "mcqs": [
+    {
+     "topic": "National income accounting",
+     "q": "Consider the following statements:\n1. Gross National Product exceeds Gross Domestic Product when net factor income from abroad is positive.\n2. National Income, as conventionally defined, is Net National Product at factor cost.\n3. Net National Product is obtained by adding depreciation to Gross National Product.\nWhich of the statements given above is/are correct?",
+     "options": [
+      "1 only",
+      "1 and 2 only",
+      "2 and 3 only",
+      "1, 2 and 3"
+     ],
+     "answer": 1,
+     "explanation": "GNP = GDP + NFIA, so a positive NFIA makes GNP larger than GDP. National Income is NNP at factor cost. NNP = GNP minus depreciation, not plus, so statement 3 is wrong."
+    },
+    {
+     "topic": "Money supply",
+     "q": "With reference to the measures of money supply used in India, consider the following statements:\n1. M1 includes net time deposits of commercial banks.\n2. M3 is commonly referred to as broad money.\n3. Among M1 to M4, M1 is the most liquid measure.\nWhich of the statements given above is/are correct?",
+     "options": [
+      "1 only",
+      "2 only",
+      "2 and 3 only",
+      "1, 2 and 3"
+     ],
+     "answer": 2,
+     "explanation": "M1 = currency with the public + demand deposits with banks + other deposits with RBI. Net time deposits are added only in M3 (M3 = M1 + net time deposits). M3 is called broad money, and liquidity falls from M1 to M4, so M1 is the most liquid."
+    },
+    {
+     "topic": "RBI monetary policy tools",
+     "q": "Consider the following instruments of the Reserve Bank of India:\n1. Cash Reserve Ratio\n2. Open Market Operations\n3. Moral suasion\n4. Statutory Liquidity Ratio\nHow many of the above are quantitative (general) instruments of credit control?",
+     "options": [
+      "Only one",
+      "Only two",
+      "Only three",
+      "All four"
+     ],
+     "answer": 2,
+     "explanation": "CRR, OMO and SLR change the total volume of credit and money in the system, so they are quantitative tools. Moral suasion is persuasion by RBI and is classed as a qualitative (selective) tool."
+    },
+    {
+     "topic": "RBI monetary policy tools",
+     "q": "Which one of the following is the most likely direct effect of an increase in the repo rate by the Reserve Bank of India?",
+     "options": [
+      "Banks are required to keep a larger share of their deposits as cash with the RBI",
+      "The government's fiscal deficit falls automatically",
+      "The rupee is officially devalued against the US dollar",
+      "Banks' cost of short-term borrowing from the RBI rises, tending to push up lending rates"
+     ],
+     "answer": 3,
+     "explanation": "The repo rate is the rate at which RBI lends to banks against government securities, so raising it makes borrowing from RBI costlier and pushes up lending rates. A larger cash share is a CRR change. Fiscal deficit and devaluation are not direct effects of a repo hike."
+    },
+    {
+     "topic": "Banking structure",
+     "q": "With reference to Payments Banks in India, consider the following statements:\n1. They can accept demand deposits from the public.\n2. They can issue credit cards to their customers.\n3. They can issue ATM/debit cards to their customers.\nWhich of the statements given above is/are correct?",
+     "options": [
+      "1 only",
+      "1 and 3 only",
+      "2 and 3 only",
+      "1, 2 and 3"
+     ],
+     "answer": 1,
+     "explanation": "Payments banks may accept demand deposits (savings and current accounts) up to a per-customer ceiling and may issue ATM/debit cards. They cannot lend, so they cannot issue credit cards."
+    },
+    {
+     "topic": "Government budget and deficits",
+     "q": "Consider the following statements:\n1. Primary deficit is fiscal deficit minus interest payments.\n2. A fiscal deficit necessarily implies that the government also has a revenue deficit.\nWhich of the statements given above is/are correct?",
+     "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+     ],
+     "answer": 0,
+     "explanation": "Primary deficit = fiscal deficit minus interest payments, which shows borrowing for purposes other than paying interest. A government can have a revenue surplus and still run a fiscal deficit if its capital expenditure is high, so statement 2 is wrong."
+    },
+    {
+     "topic": "Financial markets",
+     "q": "Consider the following instruments:\n1. Treasury Bills\n2. Commercial Paper\n3. Ten-year dated Government Securities\nHow many of the above are money market instruments?",
+     "options": [
+      "Only one",
+      "Only two",
+      "All three",
+      "None"
+     ],
+     "answer": 1,
+     "explanation": "Money market instruments have maturities of up to one year. Treasury Bills (91, 182 and 364 days) and Commercial Paper (up to one year) qualify. A ten-year dated G-sec is a capital market instrument."
+    },
+    {
+     "topic": "Taxation and GST",
+     "q": "Consider the following statements regarding the Goods and Services Tax (GST) in India:\n1. The GST Council is a constitutional body under Article 279A.\n2. The GST Council is chaired by the Union Finance Minister.\n3. GST is an origin-based tax on consumption.\nWhich of the statements given above is/are correct?",
+     "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+     ],
+     "answer": 0,
+     "explanation": "The 101st Constitutional Amendment inserted Article 279A, which creates the GST Council and makes the Union Finance Minister its chairperson. GST is destination-based: tax goes to the state where the goods or services are consumed. So statement 3 is wrong."
+    },
+    {
+     "topic": "Balance of payments",
+     "q": "Consider the following transactions:\n1. Remittances sent home by Indians working abroad\n2. Foreign Direct Investment inflows\n3. Export of software services\n4. External Commercial Borrowings by Indian firms\nWhich of the above are recorded in the current account of India's balance of payments?",
+     "options": [
+      "2 and 4 only",
+      "1, 2 and 3 only",
+      "1, 3 and 4 only",
+      "1 and 3 only"
+     ],
+     "answer": 3,
+     "explanation": "Private transfers such as remittances, and services exports such as software, are 'invisibles' in the current account. FDI and ECBs create foreign assets or liabilities, so they go in the capital account."
+    },
+    {
+     "topic": "Exchange rate",
+     "q": "Under a flexible exchange rate system, a depreciation of the Indian rupee against the US dollar, other things remaining equal, would:\n1. make Indian exports cheaper for foreign buyers.\n2. make imports costlier in rupee terms.\nWhich of the statements given above is/are correct?",
+     "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+     ],
+     "answer": 2,
+     "explanation": "After depreciation, one dollar buys more rupees, so Indian goods cost less in dollar terms. Each dollar of imports needs more rupees, so imports become costlier. Both effects follow from the same change in the exchange rate."
+    },
+    {
+     "topic": "International economic institutions",
+     "q": "Consider the following pairs (World Bank Group institution : principal function):\n1. International Development Association : Concessional loans and grants to the poorest countries\n2. Multilateral Investment Guarantee Agency : Political risk insurance for cross-border investors\n3. International Finance Corporation : Lending exclusively to sovereign governments\nHow many of the pairs given above are correctly matched?",
+     "options": [
+      "Only one",
+      "Only two",
+      "All three",
+      "None"
+     ],
+     "answer": 1,
+     "explanation": "IDA is the World Bank's concessional arm for the poorest countries, and MIGA provides political risk insurance and credit enhancement. The IFC finances the private sector, not sovereign governments, so pair 3 is wrong."
+    },
+    {
+     "topic": "WTO and agriculture",
+     "q": "With reference to domestic support under the WTO Agreement on Agriculture, consider the following statements:\n1. Green Box subsidies are exempt from reduction commitments.\n2. Market price support such as procurement at administered prices is counted under the Amber Box (Aggregate Measurement of Support).\n3. Blue Box subsidies are prohibited outright.\nWhich of the statements given above is/are correct?",
+     "options": [
+      "1 only",
+      "1 and 2 only",
+      "2 and 3 only",
+      "1, 2 and 3"
+     ],
+     "answer": 1,
+     "explanation": "Green Box support causes minimal trade distortion, so it is exempt from reduction commitments. Market price support is trade-distorting and is counted in the Amber Box AMS. Blue Box support (production-limiting direct payments) is permitted and currently has no spending limit, so statement 3 is wrong."
+    },
+    {
+     "topic": "Poverty estimation",
+     "q": "The Planning Commission's estimate that about 21.9 per cent of India's population was below the poverty line in 2011-12 was based on the methodology recommended by which committee?",
+     "options": [
+      "Lakdawala Committee",
+      "Rangarajan Committee",
+      "Tendulkar Committee",
+      "Alagh Task Force"
+     ],
+     "answer": 2,
+     "explanation": "The 21.9% figure for 2011-12 used the Suresh Tendulkar Committee methodology. The later Rangarajan Committee estimated a higher figure (about 29.5%) for the same year. Alagh (1979) and Lakdawala (1993) are older approaches."
+    },
+    {
+     "topic": "Planning and industrial policy",
+     "q": "Consider the following statements:\n1. The Second Five Year Plan, based on the Mahalanobis model, emphasised heavy and basic industries.\n2. The Industrial Policy Resolution of 1956 classified industries into three categories.\n3. The Monopolies and Restrictive Trade Practices (MRTP) Act was enacted as part of the 1991 economic reforms.\nWhich of the statements given above is/are correct?",
+     "options": [
+      "2 only",
+      "1 and 3 only",
+      "1 and 2 only",
+      "1, 2 and 3"
+     ],
+     "answer": 2,
+     "explanation": "The Second Plan (1956-61) followed Mahalanobis's heavy-industry strategy. IPR 1956 created Schedules A, B and C. The MRTP Act dates from 1969, and the 1991 reforms diluted it rather than enacting it, so statement 3 is wrong."
+    }
+   ]
+  },
+  {
+   "key": "environment",
+   "name": "Environment",
+   "mcqs": [
+    {
+     "topic": "Species & IUCN",
+     "q": "Consider the following statements about the IUCN Red List:\n1. A species is 'Extinct in the Wild' when it is known to survive only in cultivation, in captivity or as a naturalised population well outside its past range.\n2. 'Data Deficient' is one of the threatened categories of the Red List.\n3. Critically Endangered, Endangered and Vulnerable together make up the threatened categories.\nWhich of the statements given above is/are correct?",
+     "options": [
+      "1 only",
+      "1 and 3 only",
+      "2 and 3 only",
+      "1, 2 and 3"
+     ],
+     "answer": 1,
+     "explanation": "Statement 1 is the IUCN definition of Extinct in the Wild. Only CR, EN and VU are 'threatened', so statement 3 is correct. Data Deficient means there is not enough information to assess the species, and it is not a threatened category, so statement 2 is wrong."
+    },
+    {
+     "topic": "Wetlands & Ramsar",
+     "q": "Consider the following statements about the Ramsar Convention:\n1. It was signed in 1971 in the Iranian city of Ramsar.\n2. The Montreux Record lists Ramsar sites where changes in ecological character have occurred, are occurring or are likely to occur.\n3. Each Contracting Party must designate at least one wetland for the List of Wetlands of International Importance when it joins.\nHow many of the above statements are correct?",
+     "options": [
+      "Only one",
+      "Only two",
+      "All three",
+      "None"
+     ],
+     "answer": 2,
+     "explanation": "The Convention was signed at Ramsar, Iran, in 1971. The Montreux Record is the register of listed sites whose ecological character has changed, is changing or is likely to change. Article 2.4 requires every party to designate at least one wetland when it signs, ratifies or accedes. All three statements are correct."
+    },
+    {
+     "topic": "Conventions & Protocols",
+     "q": "Consider the following pairs:\nInternational instrument : Subject\n1. Basel Convention : Transboundary movement of hazardous wastes\n2. Rotterdam Convention : Elimination of persistent organic pollutants\n3. Minamata Convention : Mercury\n4. Cartagena Protocol : Biosafety of living modified organisms\nHow many of the pairs given above are correctly matched?",
+     "options": [
+      "Only one",
+      "Only two",
+      "Only three",
+      "All four"
+     ],
+     "answer": 2,
+     "explanation": "The Rotterdam Convention covers the Prior Informed Consent procedure for certain hazardous chemicals and pesticides in international trade. Persistent organic pollutants come under the Stockholm Convention, so pair 2 is wrong. Basel (hazardous wastes), Minamata (mercury) and Cartagena (LMOs, under the CBD) are correctly matched."
+    },
+    {
+     "topic": "Conventions & Protocols",
+     "q": "Consider the following statements:\n1. The Kigali Amendment to the Montreal Protocol provides for the phase-down of hydrofluorocarbons (HFCs).\n2. HFCs are major depleters of stratospheric ozone.\nWhich of the statements given above is/are correct?",
+     "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+     ],
+     "answer": 0,
+     "explanation": "The Kigali Amendment (2016) brought HFCs under the Montreal Protocol for a phased reduction. HFCs contain no chlorine or bromine, so they do not significantly deplete ozone. They were targeted because they are potent greenhouse gases."
+    },
+    {
+     "topic": "Ecology basics",
+     "q": "Which one of the following ecological pyramids is always upright?",
+     "options": [
+      "Pyramid of numbers in a tree-dominated ecosystem",
+      "Pyramid of biomass in an open-ocean ecosystem",
+      "Pyramid of energy in any ecosystem",
+      "Pyramid of numbers in a parasitic food chain"
+     ],
+     "answer": 2,
+     "explanation": "Energy is lost as heat at every trophic transfer, and only about 10% passes to the next level, so the pyramid of energy can never be inverted. Pyramids of numbers (in a tree ecosystem or a parasitic chain) and the pyramid of biomass in the open ocean (where phytoplankton are outweighed by consumers) can be inverted."
+    },
+    {
+     "topic": "Protected areas",
+     "q": "Consider the following statements about Biosphere Reserves in India:\n1. The core zone is legally protected and kept largely undisturbed.\n2. Biosphere Reserves are declared under a specific provision of the Wild Life (Protection) Act, 1972.\n3. The transition zone allows human settlements and sustainable economic activities.\nWhich of the statements given above is/are correct?",
+     "options": [
+      "1 only",
+      "2 and 3 only",
+      "1, 2 and 3",
+      "1 and 3 only"
+     ],
+     "answer": 3,
+     "explanation": "Biosphere Reserves follow UNESCO's Man and the Biosphere concept. They are designated through a central government scheme, not under a provision of the WPA, although their core areas are often notified national parks or sanctuaries. The core is strictly protected, and the outer transition zone allows settlements and sustainable use."
+    },
+    {
+     "topic": "Protected areas",
+     "q": "Consider the following statements regarding the Wild Life (Protection) Act, 1972:\n1. Conservation Reserves and Community Reserves were added to the Act by the Wild Life (Protection) Amendment Act, 2002.\n2. Grazing of livestock is not permitted in a National Park.\n3. A Tiger Reserve is notified directly by the National Tiger Conservation Authority.\nHow many of the above statements are correct?",
+     "options": [
+      "Only one",
+      "Only two",
+      "All three",
+      "None"
+     ],
+     "answer": 1,
+     "explanation": "The 2002 amendment created Conservation and Community Reserves (Sections 36A-36D), and Section 35(7) bars grazing in National Parks. Under Section 38V, a Tiger Reserve is notified by the State Government on the NTCA's recommendation, not by the NTCA itself, so statement 3 is wrong."
+    },
+    {
+     "topic": "Environmental pollution",
+     "q": "Consider the following statements:\n1. A higher Biochemical Oxygen Demand (BOD) in a water body indicates a greater load of biodegradable organic pollution.\n2. For the same sample, Chemical Oxygen Demand (COD) is generally higher than BOD.\nWhich of the statements given above is/are correct?",
+     "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+     ],
+     "answer": 2,
+     "explanation": "BOD measures the oxygen microbes need to break down biodegradable organic matter, so more organic pollution gives a higher BOD. COD uses a strong chemical oxidant that oxidises both biodegradable and non-biodegradable matter, so it is usually higher than BOD."
+    },
+    {
+     "topic": "Ecosystem functions",
+     "q": "Consider the following statements:\n1. Biomagnification is the increase in concentration of a persistent toxic substance at successive trophic levels of a food chain.\n2. Bioaccumulation is the build-up of a substance inside an organism because it is absorbed faster than it is lost.\n3. Water-soluble, readily biodegradable substances are the most likely to biomagnify.\nWhich of the statements given above is/are correct?",
+     "options": [
+      "1 only",
+      "1 and 2 only",
+      "2 and 3 only",
+      "1, 2 and 3"
+     ],
+     "answer": 1,
+     "explanation": "Statements 1 and 2 are the standard definitions. Substances that biomagnify, such as DDT and methylmercury, are persistent and fat-soluble, so they stay in body tissues. Water-soluble, biodegradable substances are excreted or broken down, so statement 3 is wrong."
+    },
+    {
+     "topic": "Climate change",
+     "q": "Which one of the following greenhouse gases has the highest Global Warming Potential over a 100-year time horizon?",
+     "options": [
+      "Carbon dioxide",
+      "Methane",
+      "Nitrous oxide",
+      "Sulphur hexafluoride"
+     ],
+     "answer": 3,
+     "explanation": "Over 100 years, sulphur hexafluoride has a GWP in the tens of thousands (about 23,500 in IPCC AR5). Nitrous oxide is about 265, methane about 28, and CO2 is the reference value of 1. AR6 revised these figures slightly, but the ranking is the same."
+    },
+    {
+     "topic": "Climate change & India",
+     "q": "Which one of the following was NOT among the eight National Missions originally launched under India's National Action Plan on Climate Change (2008)?",
+     "options": [
+      "National Solar Mission",
+      "National Mission for Enhanced Energy Efficiency",
+      "National Mission for Sustaining the Himalayan Ecosystem",
+      "National Mission for Clean Ganga"
+     ],
+     "answer": 3,
+     "explanation": "The eight NAPCC missions are Solar, Enhanced Energy Efficiency, Sustainable Habitat, Water, Sustaining the Himalayan Ecosystem, Green India, Sustainable Agriculture, and Strategic Knowledge for Climate Change. The National Mission for Clean Ganga is a separate river-rejuvenation programme."
+    },
+    {
+     "topic": "Agriculture & environment",
+     "q": "Consider the following statements about biofertilisers:\n1. Azotobacter is a free-living nitrogen-fixing bacterium.\n2. Rhizobium fixes nitrogen in symbiosis with the root nodules of leguminous plants.\n3. Azolla is used in paddy fields because it hosts the cyanobacterium Anabaena, which fixes atmospheric nitrogen.\nWhich of the statements given above is/are correct?",
+     "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+     ],
+     "answer": 3,
+     "explanation": "All three are standard facts. Azotobacter fixes nitrogen without a host, Rhizobium forms root nodules on legumes, and the water fern Azolla carries the nitrogen-fixing cyanobacterium Anabaena azollae, which makes it a useful green manure in rice fields."
+    },
+    {
+     "topic": "Aquatic ecosystem",
+     "q": "Consider the following statements about coral reefs:\n1. Reef-building corals live in symbiosis with photosynthetic algae called zooxanthellae.\n2. Reef-building corals grow best in deep waters below 200 metres, where temperatures stay stable.\nWhich of the statements given above is/are correct?",
+     "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+     ],
+     "answer": 0,
+     "explanation": "Corals get much of their energy from zooxanthellae, and when heat stress makes them expel these algae, the coral bleaches. Because the algae need sunlight, reef-building corals grow in shallow, clear, warm water in the photic zone, not below 200 m, so statement 2 is wrong."
+    },
+    {
+     "topic": "Environmental laws & institutions",
+     "q": "Consider the following pairs:\nLegislation : Statutory body created under it\n1. Biological Diversity Act, 2002 : National Biodiversity Authority\n2. National Green Tribunal Act, 2010 : National Green Tribunal\n3. Wild Life (Protection) Act, 1972 : Central Pollution Control Board\n4. Water (Prevention and Control of Pollution) Act, 1974 : Central Pollution Control Board\nWhich of the pairs given above are correctly matched?",
+     "options": [
+      "1 and 2 only",
+      "1, 2 and 4 only",
+      "2, 3 and 4 only",
+      "1, 2, 3 and 4"
+     ],
+     "answer": 1,
+     "explanation": "The CPCB was set up under the Water Act, 1974, so pair 4 is correct and pair 3 is wrong. The NBA, based in Chennai, comes from the Biological Diversity Act, 2002, and the NGT from the NGT Act, 2010. Bodies created under the WPA include the NTCA and the Wildlife Crime Control Bureau, not the CPCB."
+    }
+   ]
+  },
+  {
+   "key": "scitech",
+   "name": "Science & Tech + Ancient/Medieval",
+   "mcqs": [
+    {
+     "topic": "Health and diseases",
+     "q": "Consider the following statements:\n1. Antibiotics are effective in treating viral infections such as influenza.\n2. Tuberculosis is caused by a bacterium.\n3. Malaria is caused by a protozoan transmitted by the female Anopheles mosquito.\nHow many of the above statements are correct?",
+     "options": [
+      "Only one",
+      "Only two",
+      "All three",
+      "None"
+     ],
+     "answer": 1,
+     "explanation": "Antibiotics target bacterial structures and processes such as cell walls and bacterial ribosomes, so they do not act on viruses. Statement 1 is wrong. TB is caused by the bacterium Mycobacterium tuberculosis, and malaria by Plasmodium (a protozoan) spread by female Anopheles mosquitoes, so 2 and 3 are correct."
+    },
+    {
+     "topic": "Space technology - orbits",
+     "q": "Consider the following statements:\n1. A geostationary satellite orbits at an altitude of about 36,000 km above the equator.\n2. Sun-synchronous orbits are near-polar orbits commonly used by remote-sensing satellites.\n3. Geostationary satellites are best suited for high-resolution imaging of the Earth's surface.\nWhich of the statements given above is/are correct?",
+     "options": [
+      "1 only",
+      "1 and 2 only",
+      "2 and 3 only",
+      "1, 2 and 3"
+     ],
+     "answer": 1,
+     "explanation": "GEO is about 35,786 km above the equator, and sun-synchronous orbits are low, near-polar orbits that give constant lighting for remote sensing. At about 36,000 km, geostationary satellites are too far away for high-resolution imaging. They are used for communication and broad-area weather monitoring, so statement 3 is wrong."
+    },
+    {
+     "topic": "Space technology - Lagrange points",
+     "q": "With reference to the Lagrange points of the Sun-Earth system, consider the following statements:\n1. At these points, the combined gravity of the Sun and the Earth lets a small object keep a fixed position relative to both.\n2. The L1 point lies between the Sun and the Earth and gives an uninterrupted view of the Sun.\n3. The James Webb Space Telescope operates around the L1 point.\nWhich of the statements given above is/are correct?",
+     "options": [
+      "1 only",
+      "2 only",
+      "1 and 2 only",
+      "1, 2 and 3"
+     ],
+     "answer": 2,
+     "explanation": "At Lagrange points, the gravitational pulls of the two large bodies balance the centripetal force needed for a small body to move with them, so it keeps its position relative to both. L1 lies on the Sun-Earth line between them, which is why solar observatories such as Aditya-L1 (in a halo orbit around L1) are placed there. JWST orbits around L2, on the far side of Earth from the Sun, so statement 3 is wrong."
+    },
+    {
+     "topic": "Nuclear energy",
+     "q": "With reference to India's three-stage nuclear power programme, consider the following statements:\n1. The first stage uses Pressurised Heavy Water Reactors fuelled by natural uranium.\n2. The second stage uses Fast Breeder Reactors with plutonium-based fuel.\n3. Thorium-232 is a fissile material that can directly sustain a chain reaction.\nWhich of the statements given above are correct?",
+     "options": [
+      "2 and 3 only",
+      "1 and 3 only",
+      "1 and 2 only",
+      "1, 2 and 3"
+     ],
+     "answer": 2,
+     "explanation": "Stage 1 uses PHWRs (natural uranium, heavy water), and stage 2 uses FBRs fuelled with plutonium from stage 1. Thorium-232 is fertile, not fissile: it must first be converted to fissile U-233 by neutron capture, which is the goal of stage 3. So statement 3 is wrong."
+    },
+    {
+     "topic": "Biotechnology",
+     "q": "Consider the following pairs:\n1. Bt cotton : Cry gene from the soil bacterium Bacillus thuringiensis\n2. Golden Rice : Genetically enhanced iron content\n3. CRISPR-Cas9 : Targeted editing of genome sequences\nHow many of the pairs given above are correctly matched?",
+     "options": [
+      "Only one",
+      "Only two",
+      "All three",
+      "None"
+     ],
+     "answer": 1,
+     "explanation": "Bt cotton carries insecticidal Cry genes from Bacillus thuringiensis, and CRISPR-Cas9 is a tool for targeted genome editing. Golden Rice is engineered to produce beta-carotene (provitamin A), not extra iron, so pair 2 is wrong."
+    },
+    {
+     "topic": "Defence technology",
+     "q": "Consider the following statements:\n1. BrahMos is a supersonic cruise missile developed jointly by India and Russia.\n2. Prithvi was one of the missiles developed under the Integrated Guided Missile Development Programme.\n3. Nag is an anti-tank guided missile.\nHow many of the above statements are correct?",
+     "options": [
+      "Only one",
+      "Only two",
+      "All three",
+      "None"
+     ],
+     "answer": 2,
+     "explanation": "BrahMos is an India-Russia joint venture named after the Brahmaputra and Moskva rivers, and it is a supersonic cruise missile. Prithvi, Agni, Trishul, Akash and Nag were the IGMDP missiles, and Nag is a fire-and-forget anti-tank guided missile. All three statements are correct."
+    },
+    {
+     "topic": "Emerging technology - blockchain",
+     "q": "Consider the following statements about blockchain technology:\n1. It is a distributed ledger in which blocks of records are linked using cryptographic hashes.\n2. Every blockchain must be public and open for anyone to join and validate transactions.\nWhich of the statements given above is/are correct?",
+     "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+     ],
+     "answer": 0,
+     "explanation": "Each block stores the hash of the previous block, so the shared ledger is tamper-evident. Blockchains can also be private or permissioned, where only authorised participants validate, so statement 2 is wrong."
+    },
+    {
+     "topic": "Indus Valley Civilisation",
+     "q": "Consider the following statements regarding the Harappan civilisation:\n1. Dholavira, in present-day Gujarat, had an elaborate system of water reservoirs.\n2. Lothal is known for a structure widely interpreted as a dockyard.\n3. Iron tools were in common use at Harappan sites.\nWhich of the statements given above are correct?",
+     "options": [
+      "1 only",
+      "2 and 3 only",
+      "1 and 2 only",
+      "1, 2 and 3"
+     ],
+     "answer": 2,
+     "explanation": "Dholavira (Kutch, Gujarat) is noted for its water-harvesting reservoirs, and Lothal has a brick basin commonly identified as a dockyard. The Harappans were a Bronze Age culture that used copper and bronze. Iron appears in the subcontinent much later, so statement 3 is wrong."
+    },
+    {
+     "topic": "Buddhism - councils",
+     "q": "Consider the following pairs:\n   Buddhist Council : Venue\n1. First Council : Rajagriha\n2. Third Council : Pataliputra\n3. Fourth Council : Vaishali\nHow many of the pairs given above are correctly matched?",
+     "options": [
+      "Only one",
+      "Only two",
+      "All three",
+      "None"
+     ],
+     "answer": 1,
+     "explanation": "The First Council was held at Rajagriha under Ajatashatru, and the Third at Pataliputra under Ashoka. The Fourth was held in Kashmir under Kanishka. Vaishali hosted the Second Council, so pair 3 is wrong."
+    },
+    {
+     "topic": "Jainism",
+     "q": "Consider the following statements:\n1. Parshvanatha is regarded as the 23rd tirthankara in the Jain tradition.\n2. Jainism rejects the authority of the Vedas.\n3. The earliest canonical texts of both Jainism and Buddhism were composed in classical Sanskrit.\nWhich of the statements given above are correct?",
+     "options": [
+      "1 only",
+      "1 and 2 only",
+      "2 and 3 only",
+      "1, 2 and 3"
+     ],
+     "answer": 1,
+     "explanation": "Parshvanatha is the 23rd tirthankara, before Mahavira (24th), and Jainism, like Buddhism, does not accept Vedic authority. The early Jain canon is in Ardhamagadhi Prakrit and the early Buddhist canon in Pali, not Sanskrit, so statement 3 is wrong."
+    },
+    {
+     "topic": "Mauryas - Ashokan inscriptions",
+     "q": "Consider the following statements about Ashokan inscriptions:\n1. Most of them in the Indian subcontinent are in Prakrit, written in the Brahmi script.\n2. Some inscriptions in the north-west of the subcontinent use the Kharosthi script.\n3. The Maski inscription is one of those that mention Ashoka by name.\nWhich of the statements given above are correct?",
+     "options": [
+      "1 only",
+      "1 and 2 only",
+      "2 and 3 only",
+      "1, 2 and 3"
+     ],
+     "answer": 3,
+     "explanation": "Most edicts are in Prakrit in Brahmi. Those at Shahbazgarhi and Mansehra in the north-west use Kharosthi, and some in Afghanistan use Greek and Aramaic. Most edicts call the king 'Devanampiya Piyadasi', but the Maski Minor Rock Edict names him as Ashoka (as do a few others, such as Gujarra), so all three statements are correct."
+    },
+    {
+     "topic": "Cholas - local administration",
+     "q": "The Uttaramerur inscriptions are historically important mainly because they give information about:",
+     "options": [
+      "Land revenue rates under the Pallavas",
+      "Functioning and selection of village assemblies (sabha) under the Cholas",
+      "Maritime trade between the Pandyas and Rome",
+      "Temple endowments made by the Vijayanagara rulers"
+     ],
+     "answer": 1,
+     "explanation": "The Uttaramerur inscriptions from Parantaka I's reign (c. 919-921 CE) describe the constitution of the Brahmin village assembly (sabha). They cover members' qualifications, selection by lot (kudavolai) and committees (variyams), which makes them the key source on Chola local self-government."
+    },
+    {
+     "topic": "Delhi Sultanate",
+     "q": "Consider the following statements:\n1. Alauddin Khalji introduced price-control measures in the markets of Delhi.\n2. Muhammad bin Tughlaq introduced a token currency of base-metal coins.\n3. Firoz Shah Tughlaq shifted the capital from Delhi to Daulatabad.\nWhich of the statements given above are correct?",
+     "options": [
+      "1 only",
+      "2 and 3 only",
+      "1 and 2 only",
+      "1, 2 and 3"
+     ],
+     "answer": 2,
+     "explanation": "Alauddin Khalji's market regulations fixed prices of grain and other goods. Muhammad bin Tughlaq issued token coins in base metal (bronze/copper) to be accepted at par with silver, and it was he, not Firoz Shah, who shifted the capital to Daulatabad (Devagiri). So statement 3 is wrong."
+    },
+    {
+     "topic": "Bhakti movement",
+     "q": "Consider the following statements:\n1. The Alvars were devotional poet-saints of Vishnu in the Tamil region.\n2. The Nayanars were devotional poet-saints of Shiva in the Tamil region.\n3. Basavanna is associated with the Virashaiva (Lingayat) movement in Karnataka.\nHow many of the above statements are correct?",
+     "options": [
+      "Only one",
+      "Only two",
+      "All three",
+      "None"
+     ],
+     "answer": 2,
+     "explanation": "The early Tamil Bhakti saints were the Alvars (devotees of Vishnu) and the Nayanars (devotees of Shiva). Basavanna, a 12th-century minister at the Kalachuri court of Bijjala, led the Virashaiva/Lingayat movement. All three statements are correct."
+    }
+   ]
+  },
+  {
+   "key": "csat",
+   "name": "CSAT",
+   "mcqs": [
+    {
+     "topic": "Number System - Unit Digit",
+     "q": "What is the unit digit of 7^95 x 3^58?",
+     "options": [
+      "1",
+      "3",
+      "7",
+      "9"
+     ],
+     "answer": 2,
+     "explanation": "The unit digits of 7 cycle through 7, 9, 3, 1. Since 95 mod 4 = 3, 7^95 ends in 3. The unit digits of 3 cycle through 3, 9, 7, 1. Since 58 mod 4 = 2, 3^58 ends in 9. 3 x 9 = 27, so the unit digit is 7."
+    },
+    {
+     "topic": "Percentages",
+     "q": "Consider the following statements:\n1. If the price of a commodity rises by 25%, a household must cut its consumption by 20% to keep its expenditure unchanged.\n2. A 10% increase followed by a 10% decrease leaves a quantity unchanged.\n3. Successive discounts of 20% and 10% are equivalent to a single discount of 28%.\nHow many of the above statements are correct?",
+     "options": [
+      "Only one",
+      "Only two",
+      "All three",
+      "None"
+     ],
+     "answer": 1,
+     "explanation": "1 is correct: the required cut = 25/125 = 20%. 2 is wrong: 1.1 x 0.9 = 0.99, a net 1% decrease. 3 is correct: 0.8 x 0.9 = 0.72, a 28% single discount. So two statements are correct."
+    },
+    {
+     "topic": "Profit and Loss",
+     "q": "A trader marks his goods 40% above the cost price and then allows a discount of 15% on the marked price. What is his profit percentage?",
+     "options": [
+      "15%",
+      "19%",
+      "21%",
+      "25%"
+     ],
+     "answer": 1,
+     "explanation": "Selling price = CP x 1.40 x 0.85 = 1.19 CP. The profit is therefore 19%. Note that you cannot simply subtract (40 - 15 = 25%), because the discount is taken on the higher marked price."
+    },
+    {
+     "topic": "Simple and Compound Interest",
+     "q": "The difference between compound interest (compounded annually) and simple interest on a certain sum for 2 years at 10% per annum is Rs 50. What is the sum?",
+     "options": [
+      "Rs 4,000",
+      "Rs 5,000",
+      "Rs 5,500",
+      "Rs 10,000"
+     ],
+     "answer": 1,
+     "explanation": "For 2 years, CI - SI = P(r/100)^2. So 50 = P x (0.1)^2 = 0.01P, which gives P = Rs 5,000. Check: SI = 1,000; CI = 5,000 x 1.21 - 5,000 = 1,050; difference = 50."
+    },
+    {
+     "topic": "Time, Speed and Distance",
+     "q": "Two trains, 150 m and 100 m long, run on parallel tracks in opposite directions at 54 km/h and 36 km/h respectively. How long do they take to cross each other completely?",
+     "options": [
+      "8 seconds",
+      "10 seconds",
+      "12.5 seconds",
+      "25 seconds"
+     ],
+     "answer": 1,
+     "explanation": "In opposite directions the speeds add: 54 + 36 = 90 km/h = 90 x 5/18 = 25 m/s. The distance covered is the sum of the lengths, 150 + 100 = 250 m. Time = 250/25 = 10 seconds."
+    },
+    {
+     "topic": "Time and Work",
+     "q": "A can finish a piece of work in 12 days and B in 18 days. They work together for 4 days, after which A leaves. In how many more days will B finish the remaining work?",
+     "options": [
+      "6 days",
+      "7 days",
+      "8 days",
+      "10 days"
+     ],
+     "answer": 2,
+     "explanation": "Take total work = LCM(12, 18) = 36 units, so A does 3 units/day and B does 2 units/day. Together for 4 days they do 5 x 4 = 20 units, leaving 16 units. B alone needs 16/2 = 8 days."
+    },
+    {
+     "topic": "Probability",
+     "q": "Two fair six-sided dice are thrown together. What is the probability that the sum of the numbers shown is 8?",
+     "options": [
+      "1/6",
+      "5/36",
+      "7/36",
+      "1/9"
+     ],
+     "answer": 1,
+     "explanation": "Of the 36 equally likely outcomes, a sum of 8 comes from (2,6), (3,5), (4,4), (5,3) and (6,2), which is 5 outcomes. The probability is 5/36."
+    },
+    {
+     "topic": "Permutation and Combination",
+     "q": "Consider the following pairs:\n1. Number of trailing zeroes in 50! : 12\n2. Number of diagonals in a decagon : 45\n3. Number of handshakes when each of 9 persons shakes hands once with every other person : 36\nWhich of the pairs given above is/are correctly matched?",
+     "options": [
+      "1 only",
+      "1 and 3 only",
+      "2 and 3 only",
+      "1, 2 and 3"
+     ],
+     "answer": 1,
+     "explanation": "Pair 1 is correct: [50/5] + [50/25] = 10 + 2 = 12. Pair 2 is wrong: diagonals = n(n-3)/2 = 10 x 7/2 = 35. The figure 45 is 10C2, which also counts the 10 sides. Pair 3 is correct: 9C2 = 36."
+    },
+    {
+     "topic": "Syllogism",
+     "q": "Statements: All pens are books. Some books are bags. No bag is a box.\nConclusions:\n1. Some pens are bags.\n2. Some books are not boxes.\nWhich of the conclusions given above logically follows/follow from the statements?",
+     "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+     ],
+     "answer": 1,
+     "explanation": "Conclusion 1 does not follow. The books that are bags need not include any pens, so the pen circle can sit entirely outside the bag circle. Conclusion 2 follows: the books that are bags cannot be boxes, because no bag is a box. Hence some books are definitely not boxes."
+    },
+    {
+     "topic": "Direction Sense",
+     "q": "A man walks 6 km towards North, turns right and walks 8 km, then turns right again and walks 12 km. How far is he from his starting point, and in which direction?",
+     "options": [
+      "10 km, South-East",
+      "10 km, North-East",
+      "14 km, South-East",
+      "26 km, East"
+     ],
+     "answer": 0,
+     "explanation": "Take the start as (0,0). Walking north gives (0,6). Turning right from north means facing east, so 8 km brings him to (8,6). Turning right from east means facing south, so 12 km brings him to (8,-6). Distance = sqrt(8^2 + 6^2) = 10 km, and since he is east and south of the start, the direction is South-East."
+    },
+    {
+     "topic": "Blood Relations",
+     "q": "P is the son of Q. Q is the only daughter of R. S is the son of R, and T is the wife of S. How is T related to P?",
+     "options": [
+      "Mother",
+      "Aunt",
+      "Sister",
+      "Grandmother"
+     ],
+     "answer": 1,
+     "explanation": "Q is a daughter, so Q is P's mother. S is another child of R, so S is Q's brother and therefore P's maternal uncle. T, the wife of P's maternal uncle, is P's aunt."
+    },
+    {
+     "topic": "Clocks and Calendars",
+     "q": "Consider the following statements:\n1. At 3:40, the angle between the hour hand and the minute hand of a clock is 130 degrees.\n2. The hour and minute hands of a clock coincide 24 times in a day.\n3. If 1 January of a non-leap year is a Monday, then 31 December of that year is also a Monday.\nWhich of the statements given above are correct?",
+     "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+     ],
+     "answer": 2,
+     "explanation": "1 is correct: |30 x 3 - 5.5 x 40| = |90 - 220| = 130 degrees. 2 is wrong: the hands coincide 22 times a day, because they meet only once between 11 and 1 (at 12). 3 is correct: 31 December is day 365, which comes 364 days (exactly 52 weeks) after 1 January, so it falls on the same weekday."
+    }
+   ]
+  }
+ ]
+}

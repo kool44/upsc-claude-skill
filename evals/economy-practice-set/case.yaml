@@ -1,0 +1,4 @@
+schema_version: "1.1"
+name: economy-practice-set
+expected_outcome: |
+  10 original UPSC-format Economy MCQs (statement-based / how-many-of-the-above / match pairs), 4 options each, answers and explanations in a separate section at the end, scoring explained as +2/-0.667/0 with accuracy-on-attempted verdict bands, sized to ~30 min.
